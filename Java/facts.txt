@@ -1,0 +1,21 @@
+Apna college video is important
+
+1.Arrays are initialised with 0,0.0,"" etc...
+2.Size of Data Types : 
+3.Array and String and Scanner is non primitive data type because we can ourselves define its size and Types
+4.new is used to give space in memory to a new object/variable.
+5.In a 2D array outer for loop is for row and inner for column
+6.Double,Integer etc are wrapper classes of int,double etc that has many other facilities like toString();
+7.next() for a single word nextLine() for whole line as input.
+8.see compareTo() for String greater String and smaller string on basis of seq no of chars.
+9.== fails sometime in strings like (new String("hello) == new String("hello")) -> false {as objects are different}.
+10.in substring last index is not considered exclusive.
+11.no end index => last index
+12.Strings cant be updated --> check.
+
+13.difference between string and stringbuilder --> new {setCharAt(i,"P"),insert(i,"hh"),delete(i,y --> not inclusive),append() at last -> main difference} --> updates itself
+14.unary op {++,--,pre & post} binary{+-/*} relational{> < >= <= == !=} logical {&&,||,!} assignment op{+=,*=...}
+
+15.Bit manipulation bitwise op {&,|,^,~,>>,<<} in shift {left FILLED BY 0} left me *2^n
+
+set get update clear {read from apna clg********88}
